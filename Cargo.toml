@@ -1,0 +1,8 @@
+[package]
+name = "rdo"
+version = "0.1.0"
+authors = ["Jan-Oliver Jahner <jan-oliver.jahner@xing.com>"]
+
+[dependencies]
+docopt = "0.6.67"
+serialize = "*"
